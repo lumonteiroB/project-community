@@ -1,8 +1,53 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# project-test
 
-Currently, two official plugins are available:
+Projeto em React utilizando Vite, Tailwind CSS, Firebase e outras bibliotecas úteis.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 🚀 Como rodar o projeto
+
+1. **Clone o repositório**
+
+```bash
+git clone https://github.com/seu-usuario/seu-repo.git
+cd project-test
+
+npm install
+Inicie o projeto
+
+bash
+Copiar
+Editar
+npm run dev
+📦 Principais dependências
+react
+
+react-dom
+
+react-router-dom
+
+tailwindcss
+
+firebase
+
+axios
+
+dotenv
+
+prop-types
+
+@tailwindcss/vite
+
+🔧 Scripts disponíveis
+npm run dev – Inicia o servidor de desenvolvimento
+
+npm run build – Cria a versão de produção
+
+npm run preview – Visualiza a build
+
+npm run lint – Verifica erros com ESLint
+
+
+```
