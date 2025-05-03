@@ -1,53 +1,15 @@
-# React + Vite
-
 # project-test
 
-Projeto em React utilizando Vite, Tailwind CSS, Firebase e outras bibliotecas úteis.
+Projeto em React utilizando Vite, Tailwind CSS, Firebase e outras bibliotecas modernas. Para rodar localmente, primeiro clone o repositório com `git clone https://github.com/seu-usuario/seu-repo.git`, entre na pasta com `cd project-test`, instale as dependências com `npm install` e inicie o projeto com `npm run dev`.
 
----
+Scripts disponíveis:
+- `npm run dev`: inicia o servidor de desenvolvimento
+- `npm run build`: gera os arquivos para produção
+- `npm run preview`: visualiza a versão de produção localmente
+- `npm run lint`: executa o ESLint para verificar o código
 
-## 🚀 Como rodar o projeto
+Dependências instaladas:
+React, React DOM, React Router DOM, Tailwind CSS, @tailwindcss/vite, Firebase, Axios, dotenv, prop-types
 
-1. **Clone o repositório**
-
-```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd project-test
-
-npm install
-Inicie o projeto
-
-bash
-Copiar
-Editar
-npm run dev
-📦 Principais dependências
-react
-
-react-dom
-
-react-router-dom
-
-tailwindcss
-
-firebase
-
-axios
-
-dotenv
-
-prop-types
-
-@tailwindcss/vite
-
-🔧 Scripts disponíveis
-npm run dev – Inicia o servidor de desenvolvimento
-
-npm run build – Cria a versão de produção
-
-npm run preview – Visualiza a build
-
-npm run lint – Verifica erros com ESLint
-
-
-```
+DevDependencies:
+Vite, @vitejs/plugin-react, ESLint e plugins (react, hooks, refresh), @types/react, @types/react-dom, autoprefixer, postcss-loader, globals
